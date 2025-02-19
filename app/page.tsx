@@ -4,8 +4,7 @@ import Grid from "@/components/Grid";
 import Hero from "@/components/Hero";
 import RecentProjects from "@/components/RecentProjecs";
 import { FloatingNav } from "@/components/ui/FloatingNavbar";
-import App from "next/app";
-import Image from "next/image";
+
 
 export default function Home() {
   return (
