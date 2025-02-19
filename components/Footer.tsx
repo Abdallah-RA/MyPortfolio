@@ -20,8 +20,8 @@ const Footer = () => {
           presence to the next level?
         </h1>
         <p className="text-white-200 md:mt-10 my-5 text-center">
-           I'm always open to discussing new opportunities, collaborations, or
-           just a friendly tech chat. Feel free to reach out!
+        I&apos;m always open to discussing new opportunities, collaborations, or
+        just a friendly tech chat. Feel free to reach out!
         </p>
         <a href="mailto:Abdallah_awad_2003@outlook.com">
           <MagicButton
