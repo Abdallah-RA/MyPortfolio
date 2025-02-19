@@ -65,7 +65,7 @@ export const navItems = [
       id: 1,
       title: "CPU Scheduler Simulation",
       des: "Simulated various CPU scheduling algorithms to optimize task performance.",
-      img: "/cpu_scheduler.png",
+      img: "./cpu_scheduler.png",
       iconLists: ["./java.svg"],
       link: "https://github.com/Abdallah-RA/CPU-Scheduler",
     },
@@ -107,12 +107,12 @@ export const navItems = [
   export const socialMedia = [
     {
       id: 1,
-      img: "/linkedin.svg",
+      img: "./linkedin.svg",
       link: "https://linkedin.com/in/abdallah-awad-079676301",
     },
     {
       id: 2,
-      img: "/github.svg",
+      img: "./github.svg",
       link: "https://github.com/Abdallah-RA",
     },
   ];
